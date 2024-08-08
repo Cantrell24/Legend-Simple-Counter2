@@ -1,4 +1,7 @@
-
+.clock, .numbers{
+    font-size: 180px;
+    padding: 20px;
+}
 /* 
 
     You can write your own styles here...
